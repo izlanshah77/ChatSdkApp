@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610596957182",
+    "firebase_url": "https://chatsdkapp-83492.firebaseio.com",
+    "project_id": "chatsdkapp-83492",
+    "storage_bucket": "chatsdkapp-83492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610596957182:android:4cd75f4b5a9bbbc7",
+        "android_client_info": {
+          "package_name": "com.example.chatsdkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610596957182-aokoekrddnaduajnif26ok4nqad9kunj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatsdkapp",
+            "certificate_hash": "afafb7781fb5cc4e15134a515d031c777f599acd"
+          }
+        },
+        {
+          "client_id": "610596957182-6blvgm7d5qn7di4804k0mlnk4h0er6nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWhgq0bhiL-BBgh2bq_rhVpIpGnTuj38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610596957182-6blvgm7d5qn7di4804k0mlnk4h0er6nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
